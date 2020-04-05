@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/mongodb",
+    "name": "t-rack-in/cli-mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": [
         "laravel",
@@ -21,7 +21,7 @@
     "require": {
         "illuminate/support": "^5.8|^6.0",
         "illuminate/container": "^5.8|^6.0",
-        "illuminate/database": "^5.8|^6.0",
+        "t-rack-in/cli-database": "^5.8|^6.0",
         "illuminate/events": "^5.8|^6.0",
         "mongodb/mongodb": "^1.4"
     },
